@@ -1,0 +1,15 @@
+https://www.statsmodels.org/dev/generated/statsmodels.regression.linear_model.OLS.html
+
+
+
+R-Squared 
+
+https://www.youtube.com/watch?v=Q-TtIPF0fCU
+
+- values between 0 and 1 
+
+measure of how close each data point fits to the regression line 
+
+How well the regresion line predicts actual values
+
+
