@@ -13,3 +13,9 @@ measure of how close each data point fits to the regression line
 How well the regresion line predicts actual values
 
 
+
+Regression Output 
+
+https://stats.idre.ucla.edu/stata/output/regression-analysis-2/
+
+
